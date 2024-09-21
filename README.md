@@ -1,4 +1,6 @@
 Here's a detailed explanation of the functionality of your Global Stock Market Sentiment Analysis app:
+##deployed link 
+https://smartrade.streamlit.app/
 
 ### Functionality Overview
 
