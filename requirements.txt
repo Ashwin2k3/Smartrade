@@ -1,5 +1,4 @@
 yfinance
 requests
-csv  
 streamlit
 textblob
